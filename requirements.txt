@@ -1,0 +1,19 @@
+# Основные
+Flask==2.3.3
+vk_api==11.9.9
+PyGithub==1.59.0
+schedule==1.2.0
+python-dotenv==1.0.0
+requests==2.31.0
+pillow
+flask_session
+gspread
+oauth2client
+# Для работы с деньгами/платежами
+yoomoney==0.1.2
+
+# Для планирования задач
+apscheduler==3.10.4  # Альтернатива schedule
+
+# Утилиты
+colorama==0.4.6  # Для цветного вывода в консоль
